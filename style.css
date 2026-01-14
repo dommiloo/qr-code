@@ -5,7 +5,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background:  hsl(212, 45%, 89%);
+    background: pink;
     font-family: 'Outfit', sans-serif;
 
 }
@@ -42,5 +42,6 @@ body {
 .attribution{
     margin-top: 20px;
     font-size: 11px;
+
 
 }
